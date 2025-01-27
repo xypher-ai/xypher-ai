@@ -17,6 +17,9 @@ Analyze complex data with ease. This tool provides predictive analytics, insight
 5. AI Trading Companion 📈
 Stay ahead in financial markets with real-time data analysis, trading strategies, and personalized guidance powered by advanced AI algorithms.
 
+6. Xypher Future Fusion 📈
+roadmap to the future of the xypherAI ecosystem & Sustainability
+
 Why Choose xypherAI?
 
 Personalized AI Experiences: Tailored to your needs and preferences.
